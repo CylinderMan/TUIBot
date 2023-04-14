@@ -1,0 +1,12 @@
+{
+    "token":"MTA4MDU4NzY5Mjc3OTI1Nzg2Ng.GhGLq8.sB2dGVQJw6012-gLxUSmjIpzfF8vh5Lus5_8fM",
+    "prefix":".",
+    "METAR_API_KEY": "915c8d00e5224bd7bdc97f24e0",
+    "mongodb":"mongodb+srv://RyanBotBetter:VmTJafW3mwkmu7qy@ryanbot.zhmy7uk.mongodb.net/?retryWrites=true&w=majority",
+    "everyone":"991363875578589326",
+    "GIPHY_API_KEY":"ICJ2jPYRN0Zxz62tzyQ8pKDKsWUb5vT2",
+    "WHSTK_API_KEY":"e24a234f002588f3128606a7bb19bf61",
+    "AVWX_API_KEY":"5mNMhcmlISc9BLy7bCLImuHyA4_i2Bdq2leIVgq3AqM",
+    "aviation_stack_api_key":"ac83cb160e542d9311a930168a9f4ac5",
+    "eleven_labs_api_key":"f071f0beabb3e9f2a396266a159c6f6f"
+}

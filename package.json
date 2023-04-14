@@ -1,0 +1,33 @@
+{
+  "name": "ryanairbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii": "^1.0.0",
+    "ascii-table": "^0.0.9",
+    "axios": "^1.3.4",
+    "bitly": "^7.1.2",
+    "cowsay": "^1.5.0",
+    "discord-gamecord": "^4.3.0",
+    "discord.js": "^14.8.0",
+    "discord.js-docs": "^0.3.0",
+    "elevenlabs-node": "^1.0.2",
+    "figlet": "^1.5.2",
+    "fs": "^0.0.1-security",
+    "giphy-js-sdk-core": "^1.0.6",
+    "https": "^1.0.0",
+    "mathjs": "^11.7.0",
+    "moment": "^2.29.4",
+    "mongoose": "^7.0.1",
+    "ms": "^2.1.3",
+    "openai": "^3.2.1",
+    "translate-google": "^1.5.0",
+    "wikijs": "^6.4.1"
+  }
+}
